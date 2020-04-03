@@ -1,2 +1,7 @@
 this is f3 file
 This is test for merging
+<<<<<<< HEAD
+=======
+merge
+
+>>>>>>> 5b2d5e3baf52a08c9b3769e8377f24f53fb44dd7
